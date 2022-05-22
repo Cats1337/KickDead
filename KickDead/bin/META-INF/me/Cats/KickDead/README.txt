@@ -1,0 +1,1 @@
+Yeah I lost the Eclipse Project file for this plugin as I did it a long time ago, so uhh you don't get the libraries but I suspect if you're here you already know what you're doing and just need the Main.java to look at. If not, uhhh too bad.
