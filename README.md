@@ -1,9 +1,6 @@
 # KickDead
 KickDead Plugin
 
-# ChatFilter
-Simple Chat Filter plugin for minecraft
-
 This plugin is a simple Plugin that kicks players, and tempbans them when they die.
 
 Originally for one of those "Minecraft Civilization" type videos
